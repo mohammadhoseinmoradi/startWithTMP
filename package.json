@@ -1,0 +1,22 @@
+{
+  "name": "startwithtpm",
+  "version": "1.0.0",
+  "description": "start with tpm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadhoseinmoradi/startWithTMP.git"
+  },
+  "author": "mohammadhosein moradi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadhoseinmoradi/startWithTMP/issues"
+  },
+  "homepage": "https://github.com/mohammadhoseinmoradi/startWithTMP#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
