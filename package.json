@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mohammadhoseinmoradi/startWithTMP#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.51.0",
     "uuid": "^8.3.2"
   }
 }
